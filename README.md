@@ -1,5 +1,5 @@
 ### ReadMe: PipeMaxVit
-In this project, I adapted the MaxViT([Multi-Axis Vision Transformer](https://arxiv.org/abs/2204.01697)) model for parallel and distributed machine learning model training to enhance performance. I aimed to minimize throughput while maintaining statistical efficiency. Here are the key terms:
+In this project, I adapted the MaxViT([Multi-Axis Vision Transformer](https://arxiv.org/abs/2204.01697)) model for parallel and distributed machine learning model training to reduce the training time. I aimed to minimize throughput while maintaining statistical efficiency. Here are the key terms:
 * Throughput - data samples processed per unit time
 * Statistical Efficiency - empirical change in objective function per processed data sample
 * Goodput - product of throughput and statistical efficiency, representing useful throughput
